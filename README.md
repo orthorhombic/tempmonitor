@@ -34,8 +34,8 @@ Cartesian Graph Function
  
 Parts:
  * ADUM5401 Digikey: ADUM5401WCRWZ-1-ND
-  * Critical for the use of thermocouple isolation
-  * thermocouple isolation enables the use of a grounded thermocouple with the MAX31855 (or newer) thermocouple sensors
+    * Critical for the use of thermocouple isolation
+    * thermocouple isolation enables the use of a grounded thermocouple with the MAX31855 (or newer) thermocouple sensors
  * DC0805T-10X-ND
  * 1528-1067-ND
  * 1568-1098-ND
@@ -43,13 +43,13 @@ Parts:
  * 478-8115-1-ND
  * 399-1170-1-ND
  * Banggood Item: 965164 Arduino Mega w/ Screen
-  * Screen looks like: https://www.banggood.com/3_5-Inch-TFT-Color-Screen-Module-320-X-480-Support-Arduino-UNO-Mega2560-p-1022298.html 
-  * Arduino looks like: https://www.banggood.com/Mega2560-R3-ATmega2560-16AU-Control-Board-With-USB-Cable-For-Arduino-p-73020.html?rmmds=search
+    * Screen looks like: https://www.banggood.com/3_5-Inch-TFT-Color-Screen-Module-320-X-480-Support-Arduino-UNO-Mega2560-p-1022298.html 
+    * Arduino looks like: https://www.banggood.com/Mega2560-R3-ATmega2560-16AU-Control-Board-With-USB-Cable-For-Arduino-p-73020.html?rmmds=search
  * RTC: https://www.banggood.com/3Pcs-DS3231-AT24C32-IIC-Real-Time-Clock-Module-For-Arduino-p-958134.html
  * DHT: https://www.banggood.com/AM2302-DHT22-Temperature-And-Humidity-Sensor-Module-For-Arduino-SCM-p-937403.html
  * 20x4 Display: https://www.banggood.com/5V-2004-20X4-204-2004A-LCD-Display-Module-Blue-Screen-For-Arduino-p-915064.html
  * Thermocouple Reader: https://www.banggood.com/MAX31855-K-Type-Thermocouple-Breakout-Board-Temperature-Measurement-Module-For-Arduino-p-1086523.html
-  * Maxim has since come out with a better and more reliable thermocouple measurement chip: MAX31856
-  * Thermocouples do no measure temperature - they measure temperature differences. Therefore, ensure your thermocouple connects to the block and that you have thermal contact between the electrical contacts and chip. If you do not, you will have drift. Consider powering the chip only when needed to minimize self heating.
+    * Maxim has since come out with a better and more reliable thermocouple measurement chip: MAX31856
+    * Thermocouples do no measure temperature - they measure temperature differences. Therefore, ensure your thermocouple connects to the block and that you have thermal contact between the electrical contacts and chip. If you do not, you will have drift. Consider powering the chip only when needed to minimize self heating.
  * Arduino Nano with expansion board: https://www.banggood.com/Funduino-Nano-Expansion-Board-ATmega328P-Nano-V3-Improved-Version-For-Arduino-p-1011009.html
   
